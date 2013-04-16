@@ -1,0 +1,227 @@
+<?xml version= "1.0"?>
+<items>
+  <weapons type="assault_rifle">
+  	<model id="st_wpn_ak74_name">AK/47
+  		<desc id="st_wpn_ak74_desc">A cheap and reliable gun hand crafted and imported into the zone. Also has a higher chance to misfire.</desc>
+      <weapon_stat>
+        <stat type="damage">38</stat>
+        <stat type="accuracy">0.5</stat>
+        <stat type="misfire_chance">0.4</stat>
+        <stat type="cost">750</stat>
+        <stat type="magazine_size">30</stat>
+        <stat type="ammo">7.62x39mm</stat>
+        <stat type="reload_time">ANIMATION NOT READY</stat>
+        <stat type="rpm">100</stat>
+        <stat type="weight">3.47</stat>
+      </weapon_stat>
+  	</model>
+  	<model id="st_wpn_ar15_name">FAR-15
+  		<desc id="st_wpn_ar15_desc">An unreliable, but accurate rifle.</desc>
+      <weapon_stat>
+        <stat type="damage">20</stat>
+        <stat type="accuracy">0.2</stat>
+        <stat type="misfire_chance">0.2</stat>
+        <stat type="cost">1000</stat>
+        <stat type="magazine_size">30</stat>
+        <stat type="ammo">5.56x45mm</stat>
+        <stat type="reload_time">ANIMATION NOT READY</stat>
+        <stat type="rpm">semi_auto</stat>
+        <stat type="weight">3.9</stat>
+      </weapon_stat>
+  	</model>
+  	<model id="st_wpn_g36k_name">G36K
+  		<desc id="st_wpn_g36k_desc">A very accurate but unreliable rifle.</desc>
+      <weapon_stat>
+        <stat type="damage">20</stat>
+        <stat type="accuracy">0.1</stat>
+        <stat type="misfire_chance">0.1</stat>
+        <stat type="cost">1250</stat>
+        <stat type="magazine_size">30</stat>
+        <stat type="ammo">5.56x45mm</stat>
+        <stat type="reload_time">ANIMATION NOT READY</stat>
+        <stat type="rpm">769</stat>
+        <stat type="weight">3.3</stat>
+      </weapon_stat>
+  	</model>
+  	<model id="st_wpn_as_val_name">AS VAL
+  		<desc id="st_wpn_as_val_desc">A high ROF and accurate rifle, however ammo is quite rare.</desc>
+      <weapon_stat>
+        <stat type="damage">25</stat>
+        <stat type="accuracy">0.7</stat>
+        <stat type="misfire_chance">0.1</stat>
+        <stat type="cost">1750</stat>
+        <stat type="magazine_size">20</stat>
+        <stat type="ammo">9x39mm</stat>
+        <stat type="reload_time">ANIMATION NOT READY</stat>
+        <stat type="rpm">900</stat>
+        <stat type="weight">2.5</stat>
+      </weapon_stat>
+  </weapons>
+  <weapons type="pistol">
+  	<model id="st_wpn_makarov_name">Makarov
+  		<desc id="st_wpn_makarov_desc">A very reliable and fairly accurate pistol. Ammo is also very common.</desc>
+      <weapon_stat>
+        <stat type="damage">15</stat>
+        <stat type="accuracy">0.7</stat>
+        <stat type="misfire_chance">0.3</stat>
+        <stat type="cost">250</stat>
+        <stat type="magazine_size">8</stat>
+        <stat type="ammo">9x18mm</stat>
+        <stat type="reload_time">ANIMATION NOT READY</stat>
+        <stat type="rpm">semi_auto</stat>
+        <stat type="weight">0.7</stat>
+      </weapon_stat>
+  	</model>
+  	<model id="st_wpn_m1911_name">Colt M1911
+  		<desc id="st_wpn_m1911_desc">A high stopping power pistol. Relatively common in the zone.</desc>
+      <weapon_stat>
+        <stat type="damage">36</stat>
+        <stat type="accuracy">0.6</stat>
+        <stat type="misfire_chance">0.3</stat>
+        <stat type="cost">375</stat>
+        <stat type="magazine_size">7</stat>
+        <stat type="ammo">45_acp</stat>
+        <stat type="reload_time">ANIMATION NOT READY</stat>
+        <stat type="rpm">semi_auto</stat>
+        <stat type="weight">1.1</stat>
+      </weapon_stat>
+  	</model>
+  	<model id="st_wpn_sig_p226_name">SIG P226
+  		<desc id="st_wpn_sig_p226_desc">A fairly uncommon pistol. Somewhat reliable.</desc>
+      <weapon_stat>
+        <stat type="damage">18</stat>
+        <stat type="accuracy">0.7</stat>
+        <stat type="misfire_chance">0.2</stat>
+        <stat type="cost">450</stat>
+        <stat type="magazine_size">18</stat>
+        <stat type="ammo">9x19mm</stat>
+        <stat type="reload_time">ANIMATION NOT READY</stat>
+        <stat type="rpm">semi_auto</stat>
+        <stat type="weight">0.96</stat>
+      </weapon_stat>
+  	</model>
+  	<model id="st_wpn_p22_name">Walther P22
+  		<descid="st_wpn_p22_desc">A reliable but very low caliber pistol, however ammo is very cheap and extremely common.</desc>
+      <weapon_stat>
+        <stat type="damage">12</stat>
+        <stat type="accuracy">0.6</stat>
+        <stat type="misfire_chance">0.3</stat>
+        <stat type="cost">100</stat>
+        <stat type="magazine_size">10</stat>
+        <stat type="ammo">22</stat>
+        <stat type="reload_time">ANIMATION NOT READY</stat>
+        <stat type="rpm">semi_auto</stat>
+        <stat type="weight">0.43</stat>
+      </weapon_stat>
+  	</model>
+  	<model id="st_wpn_m92fs_name">M92FS
+  		<desc id="st_wpn_m92fs_desc">A reliable and very accurate pistol.</desc>
+      <weapon_stat>
+        <stat type="damage">18</stat>
+        <stat type="accuracy">0.6</stat>
+        <stat type="misfire_chance">0.3</stat>
+        <stat type="cost">375</stat>
+        <stat type="magazine_size">15</stat>
+        <stat type="ammo">9x19mm</stat>
+        <stat type="reload_time">ANIMATION NOT READY</stat>
+        <stat type="rpm">semi_auto</stat>
+        <stat type="weight">0.97</stat>
+      </weapon_stat>
+  	</model>
+  </weapons>
+  <weapons type="carbine">
+  	<model id="st_wpn_scarh_name">SCAR-H
+  		<desc id="st_wpn_scarh_desc">A high stopping power carbine with decent accuracy. Not very common, and ammo is extremely rare.</desc>
+      <weapon_stat>
+        <stat type="damage">67</stat>
+        <stat type="accuracy">0.7</stat>
+        <stat type="misfire_chance">0.3</stat>
+        <stat type="cost"></stat>
+        <stat type="magazine_size">20</stat>
+        <stat type="ammo">7.62x51mm</stat>
+        <stat type="reload_time">ANIMATION NOT READY</stat>
+        <stat type="rpm">625</stat>
+        <stat type="weight">3.49</stat>
+      </weapon_stat>
+  	</model>
+  	<model id="st_wpn_mp5_name">MP5A2
+  		<desc id="st_wpn_mp5_desc">An unreliable carbine, but has common ammo.</desc>
+      <weapon_stat>
+        <stat type="damage">18</stat>
+        <stat type="accuracy">0.7</stat>
+        <stat type="misfire_chance">0.3</stat>
+        <stat type="cost">500</stat>
+        <stat type="magazine_size">30</stat>
+        <stat type="ammo">9x19mm</stat>
+        <stat type="reload_time">ANIMATION NOT READY</stat>
+        <stat type="rpm">800</stat>
+        <stat type="weight">2.5</stat>
+      </weapon_stat>
+  	</model>
+  	<model id="st_wpn_ump45_name">UMP45
+  		<desc id="st_wpn_ump45_desc">An unreliable, but very high caliber carbine. Somewhat uncommon in the zone.</desc>
+      <weapon_stat>
+        <stat type="damage">36</stat>
+        <stat type="accuracy">0.7</stat>
+        <stat type="misfire_chance">0.3</stat>
+        <stat type="cost">700</stat>
+        <stat type="magazine_size">25</stat>
+        <stat type="ammo">45_acp</stat>
+        <stat type="reload_time">ANIMATION NOT READY</stat>
+        <stat type="rpm">600</stat>
+        <stat type="weight">2.3</stat>
+      </weapon_stat>
+  	</model>
+  	<model id="st_wpn_aks74u_name">AKS/74u
+  		<desc id="st_wpn_aks74u_desc">A reliable and very cheap carbine. Ammo is somewhat common.</desc>
+      <weapon_stat>
+        <stat type="damage">19</stat>
+        <stat type="accuracy">0.7</stat>
+        <stat type="misfire_chance">0.3</stat>
+        <stat type="cost">200</stat>
+        <stat type="magazine_size">30</stat>
+        <stat type="ammo">5.45x39mm</stat>
+        <stat type="reload_time">ANIMATION NOT READY</stat>
+        <stat type="rpm">700</stat>
+        <stat type="weight">2.7</stat>
+      </weapon_stat>
+  </weapons>
+  <weapons type="sniper_rifle">
+  	<model id="st_wpn_svd_name">SVD "Dragunov"
+  		<desc id="st_wpn_svd_desc">A reliable and accurate sniper rifle. Ammo is not common.</desc>
+      <weapon_stat>
+        <stat type="damage">67</stat>
+        <stat type="accuracy">0.8</stat>
+        <stat type="misfire_chance">0.1</stat>
+        <stat type="cost">2500</stat>
+        <stat type="magazine_size">10</stat>
+        <stat type="ammo">7.62x54mm</stat>
+        <stat type="reload_time">ANIMATION NOT READY</stat>
+        <stat type="rpm">semi_auto</stat>
+        <stat type="weight">4.3</stat>
+      </weapon_stat>
+  	</model>
+  	<model id="st_wpn_m24_name">M24 "Green Dragon"
+  		<desc id="st_wpn_m24_desc">An unreliable, but high caliber rifle.</desc>
+      <stat type="damage">80</stat>
+        <stat type="accuracy">0.9</stat>
+        <stat type="misfire_chance">0.1</stat>
+        <stat type="cost">3050</stat>
+        <stat type="magazine_size">5</stat>
+        <stat type="ammo">338_lapua</stat>
+        <stat type="reload_time">ANIMATION NOT READY</stat>
+        <stat type="rpm">bolt_action</stat>
+        <stat type="weight">5.4</stat>
+      </weapon_stat>
+  	</model>
+  </weapons>
+  <weapons type="explosive">
+  	<model id="st_wpn_rgd5_name">RGD-5 HE Hand Grenade
+  		<desc id="st_wpn_rgd5_desc">A high explosive hand grenade. Very common explosive.</desc>
+  	</model>
+  	<model id="st_wpn_f1_name">F1 Grenade
+      <desc id="st_wpn_f1_desc">A military grade fragmentation grenade. Not as common as it's HE counterpart.</desc>
+  </weapons>
+  <outfits>
+  </outfits>
+</items>

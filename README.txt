@@ -1,0 +1,1 @@
+Before playing this game, download Panda3D at http://www.panda3d.org/download.php
